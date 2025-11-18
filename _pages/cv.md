@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](files/CV_Steier(1).pdf){: .btn .btn--primary}
+[Download PDF](/files/CV_Steier (1).pdf){: .btn .btn--primary}
 
 ---
 
