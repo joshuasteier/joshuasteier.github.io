@@ -8,43 +8,58 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Machine Learning Engineer transitioning from applied ML in government research to fundamental AI research. I focus on model optimization, mechanistic interpretability, and reinforcement learning for complex decision-making.
+I'm a Machine Learning Research Engineer with 6+ years of experience developing production ML systems for federal agencies and research institutions. I'm currently transitioning from applied ML to fundamental AI research, with particular interests in model optimization, mechanistic interpretability, and reinforcement learning.
 
 ## Background
 
-I spent 6+ years developing production ML systems for federal agencies and research institutions, including:
-- **Booz Allen Hamilton** - Optimizing ML systems for cybersecurity and real-time analysis
-- **RAND Corporation** - Leading ML research on adversarial robustness and distribution shift
-- **Brookhaven National Laboratory** - Building production ML systems for malware analysis
-- **FBI** - Developing automation tools for security analysis
+I've spent my career at the intersection of machine learning, physics, and applied mathematics:
 
-**Education:**
-- MS in Applied Mathematics & Statistics - Stony Brook University (2021)
-- MS in Physics - Seton Hall University (2020)  
-- BS in Mathematics - Seton Hall University (2018)
+- **Booz Allen Hamilton** (2024-Present) - Cyber ML Engineer developing APT detection systems and anomaly detection pipelines
+- **RAND Corporation** (2022-2023) - Technical Analyst focusing on ML safety, climate AI, and cybersecurity. **Awarded RAND Innovation Award** for pioneering MLOps capabilities
+- **Brookhaven National Laboratory** (2021) - Developed NLP tools for malware analysis and graph-based detection systems
+- **FBI** (2017-2018) - Honors Intern in Cybersecurity developing automation tools for large-scale network analysis
 
-**Selected Publications:**
-- "Understanding the Limits of Artificial Intelligence for Warfighters: Distributional Shift in Cybersecurity Datasets" - RAND Corporation, 2022
-- "Technological and Economic Threats to the U.S. Financial System" - RAND Corporation, 2024
+## Education & Research
 
-## Current Focus
+**Degrees:**
+- M.S. in Applied Mathematics & Statistics (Computational & Systems Biology) - Stony Brook University (2021)
+- M.S. in Physics - Seton Hall University (2020)
+- B.S. in Mathematics - Seton Hall University (2018)
 
-I'm pivoting toward fundamental ML research by:
+**Current Research Projects:**
+- **TND–MultiRenewal**: Hierarchical renewal model for influenza/RSV/COVID-19 using neural lag-kernel estimation (manuscript in prep for *PLOS Computational Biology*)
+- **Spectral Deformations in Near-Extremal Kerr Black Holes**: First-order shifts in superradiant modes (draft for *Physical Review D*)
 
-1. **Implementing foundational papers** from scratch in JAX to deeply understand the mathematics and design choices
-2. **Contributing to open-source** ML frameworks and tools
-3. **Exploring research questions** in model efficiency and interpretability
+**Publications:** 15+ peer-reviewed papers and institutional reports, including work published in *Applied Physics Letters*, RAND Corporation reports, and AAAI proceedings. Papers under review at *Integers*, *ACM TEAC*, and *Discrete Applied Mathematics*.
 
+**Active Reviewer:** *Discrete Applied Mathematics*, *Machine Learning with Applications*, ICLR workshops
+
+## The Pivot to Research
+
+While I'm proud of my applied work, I'm increasingly drawn to fundamental questions:
+- How can we make models radically more efficient without losing capability?
+- What are neural networks actually learning, and can we understand their internal representations?
+- What are the theoretical limits of current ML approaches?
+
+I'm now executing an aggressive research pivot by:
+
+1. **Implementing foundational papers** from scratch in JAX to deeply understand design choices
+2. **Contributing to open-source** ML frameworks (PyTorch, JAX ecosystem)
+3. **Running original experiments** and documenting findings publicly
+4. **Building toward research engineering roles** at top AI labs (DeepMind, Anthropic, OpenAI)
 
 ## Recent Work
 
+I'm currently implementing "Attention Is All You Need" in JAX, documenting every detail that papers gloss over. Follow my progress:
+
 - **GitHub:** [github.com/joshuasteier](https://github.com/joshuasteier)
 - **Blog:** [Recent posts](/year-archive/)
+- **Full CV:** [Download PDF](/cv/)
 
 ---
 
-**I'm actively seeking research engineering roles at AI research labs and contributions to open source efforts.** If you're working on interesting ML problems or have advice for someone making this transition, I'd love to connect:
+**I'm actively seeking research engineering roles at AI research labs.** If you're working on fundamental ML problems or have advice for someone making this transition, I'd love to connect:
 
-
-💼 [LinkedIn](https://www.linkedin.com/in/joshua-s-0736a4bb)
+📧 [joshsteier@gmail.com](mailto:joshsteier@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/joshuasteier)  
 💻 [GitHub](https://github.com/joshuasteier)
