@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](/files/CV_Steier (1).pdf){: .btn .btn--primary}
+
 
 ---
 
@@ -89,4 +89,4 @@ Secret (DoD)
 
 ---
 
-[Download Full CV (PDF)](/files/Joshua_Steier_CV.pdf){: .btn .btn--primary}
+
