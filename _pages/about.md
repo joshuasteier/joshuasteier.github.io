@@ -29,6 +29,21 @@ I've spent my career at the intersection of machine learning, physics, and appli
 **Current Research Projects:**
 - **TND–MultiRenewal**: Hierarchical renewal model for influenza/RSV/COVID-19 using neural lag-kernel estimation (manuscript in prep for *PLOS Computational Biology*)
 - **Spectral Deformations in Near-Extremal Kerr Black Holes**: First-order shifts in superradiant modes (draft for *Physical Review D*)
+- **AlphaCT: RL Optimization with Formal Guarantees**
+
+Extending AlphaDev-style RL to security-critical cryptographic code with formal constant-time verification. 
+
+**Key Innovation:** First framework integrating RL optimization with formal proofs and adversarial robustness testing for crypto kernels.
+
+**[View Full Proposal on GitHub →](https://github.com/joshuasteier/AlphaCT)**
+
+**Technical Highlights:**
+- RL with in-loop constant-time constraints
+- Binary-level verification + empirical leakage testing
+- Adversarial self-play across compilers/microarchitectures
+- Target: Post-quantum crypto (Kyber/Dilithium), oblivious primitives
+
+**Status:** Research proposal stage, seeking collaboration and feedback from RL, formal methods, and cryptographic engineering communities.
 
 **Publications:** 15+ peer-reviewed papers and institutional reports, including work published in *Applied Physics Letters*, RAND Corporation reports, and AAAI proceedings. Papers under review at *Integers*, *ACM TEAC*, and *Discrete Applied Mathematics*.
 
