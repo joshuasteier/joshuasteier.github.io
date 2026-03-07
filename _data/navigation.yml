@@ -2,20 +2,13 @@
 main:
   - title: "About"
     url: /
-    
+  - title: "Research"
+    url: /research/
   - title: "Blog"
     url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
   - title: "GitHub"
-    url: "https://github.com/joshuasteier"
-    
+    url: https://github.com/joshuasteier
   - title: "Contact"
-    url: "mailto:your.email@gmail.com"
-
-
-
-
-#MachineLearning #AIResearch #DeepLearning
+    url: mailto:joshsteier@gmail.com
