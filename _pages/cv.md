@@ -28,7 +28,7 @@ Thesis: *Density Functional Theory Calculations of Al-doped Hafnia for Different
 ## Professional Experience
 
 **Machine Learning Engineer** | *Booz Allen Hamilton* | Jan 2024 – Present
-Lead a team of 5 engineers building LLM-powered systems for DoD clients. Previously: APT detection research, anomaly detection pipelines, AMOEBA simulation integration testing, rail network optimization.
+Lead a team of 5 engineers building LLM-powered systems for DoD clients. Previously: APT detection research, anomaly detection pipelines, agent based simulation integration testing, rail network optimization.
 
 **Technical Analyst** | *RAND Corporation* | Jan 2022 – Dec 2023
 ML for cybersecurity and climate time-series; change-point detection and online learning; ML safety and AI limitations research. **RAND Innovation Award (2023).**
